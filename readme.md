@@ -10,3 +10,8 @@ Create a web application that takes a number from the user and returns a list of
 ## Instructions
 1. Enter a number in the input field.
 2. Click the "Generate Output" button to see the list of values with substitutions.
+
+## Implementation Details
+- The application uses at least one loop, at least one array, and branching logic to solve the problem.
+- The user can input a new number and see new results repeatedly.
+- The application returns a list of values as an array with the specified substitutions.
