@@ -14,3 +14,6 @@ window.onload = function () {
 
             outputList.push(outputValue);
         }
+
+        return outputList;
+    }
