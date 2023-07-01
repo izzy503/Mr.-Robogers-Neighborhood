@@ -10,3 +10,17 @@ body {
     align-items: center;
     margin-top: 20px;
 }
+
+label,
+input,
+button {
+    margin: 5px;
+}
+
+button {
+    padding: 5px 10px;
+}
+
+#output {
+    margin-top: 20px;
+}
