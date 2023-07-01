@@ -17,3 +17,6 @@ window.onload = function () {
 
         return outputList;
     }
+
+    function generateOutput() {
+        const userInput = document.getElementById("userInput").value;
