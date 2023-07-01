@@ -11,3 +11,6 @@ window.onload = function () {
             } else if (outputValue.includes("1")) {
                 outputValue = "Beep!";
             }
+
+            outputList.push(outputValue);
+        }
