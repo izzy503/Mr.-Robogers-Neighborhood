@@ -25,3 +25,10 @@ Create a web application that takes a number from the user and returns a list of
 ### Test 2
 **Input:** 13
 **Expected Output:** [0, "Beep", "Boop!", "Won't you be my neighbor?", 4, 5, 6, 7, 8, 9, "Beep!", "Beep!", "Boop!", "Won't you be my neighbor?", "Beep!"]
+
+## Business Logic Tests
+
+### Test: "It should return an array of numbers from 0 to the user's inputted number"
+```javascript
+console.log(beepBoop(0)); // Expected Output: [0]
+console.log(beepBoop(5)); // Expected Output: [0, 1, 2, 3, 4, 5]
