@@ -20,3 +20,8 @@ window.onload = function () {
 
     function generateOutput() {
         const userInput = document.getElementById("userInput").value;
+        const outputElement = document.getElementById("output");
+        const outputList = beepBoop(parseInt(userInput, 10));
+        outputElement.textContent = outputList.join(", ");
+      }
+      
