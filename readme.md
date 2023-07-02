@@ -1,3 +1,5 @@
+# Author Israel E Padilla
+
 # Mr.-Robogers-Neighborhood
 
 ## Description
@@ -32,3 +34,31 @@ Create a web application that takes a number from the user and returns a list of
 ```javascript
 console.log(beepBoop(0)); // Expected Output: [0]
 console.log(beepBoop(5)); // Expected Output: [0, 1, 2, 3, 4, 5]
+
+## Technologies Used
+
+ -Visual Studio 
+ -Github
+ -HTML
+ -CSS
+ -JavaScript
+
+ ## Usage
+
+## KnownBugs
+
+-None found
+
+Clone the repository: https://github.com/izzy503/Mr.-Robogers-Neighborhood.git
+
+Contributing
+
+Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to open an issue or submit a pull request.
+
+License
+
+This project is licensed under the (https://opensource.org/licenses/BSD-2-Clause) 
+
+{Any issues or concerns please contact mne at ipadilla2280@gmail.com.}
+
+Copyright (c) 18 june 2023_Israel Padilla
