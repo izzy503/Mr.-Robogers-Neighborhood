@@ -15,3 +15,13 @@ Create a web application that takes a number from the user and returns a list of
 - The application uses at least one loop, at least one array, and branching logic to solve the problem.
 - The user can input a new number and see new results repeatedly.
 - The application returns a list of values as an array with the specified substitutions.
+
+## Example Tests
+
+### Test 1
+**Input:** 5
+**Expected Output:** [0, "Beep!", "Boop!", "Won't you be my neighbor?", 4, 5]
+
+### Test 2
+**Input:** 13
+**Expected Output:** [0, "Beep", "Boop!", "Won't you be my neighbor?", 4, 5, 6, 7, 8, 9, "Beep!", "Beep!", "Boop!", "Won't you be my neighbor?", "Beep!"]
